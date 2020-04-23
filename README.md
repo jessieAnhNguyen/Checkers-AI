@@ -1,7 +1,7 @@
 # Checkers-AI-UR
 This project designs, implements, and evaluates an AI program that plays Checkers game against human or computer opponents
 Compilation instruction:
-- To compile, either use the IntelliJ IDE or in your terminal, type java *.java and java Main
+- To compile, either use the IntelliJ IDE or in your terminal, type javac *.java and java Main
 
 
 Play instruction:
